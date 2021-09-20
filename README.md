@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />&nbsp;
 <img src="https://snehil.dev/images/svg/figma.svg" title="Figma" height="32" width="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" title="Kotlin" height="32" width="32" />&nbsp;
-
+<img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" height="32" width="32" />&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" height="32" width="32" />&nbsp;
 <br>
 
 <p align="center">
