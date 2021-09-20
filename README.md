@@ -10,14 +10,18 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Lakshit-Chiranjiv/Lakshit-Chiranjiv/blob/main/images/LAKSHIT%20CHIRANJIV%20SAGAR%20(1).png" />
 </p>
-<p align="center">
+
+
+<div align="center">
+ <h2 align="center">Find me on 🔎</h2> 
   <a href="https://twitter.com/lakshit_cs" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lakshit-chiranjiv-sagar-4b0b15198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/lakshit_cs/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a> -->
   <img src="https://badges.pufler.dev/visits/Lakshit-Chiranjiv/Lakshit-Chiranjiv?style=for-the-badge" />
-</p>
-
+</div>
+<br>
+<br>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark" />
 
 ## About Me 👨‍🎓
@@ -58,10 +62,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshit-Chiranjiv&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" /> &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&langs_count=8&theme=radical" />
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&langs_count=8&theme=radical)](https://github.com/Lakshit-Chiranjiv/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&langs_count=8&theme=radical)](https://github.com/Lakshit-Chiranjiv/github-readme-stats) -->
 
 [![Github](https://img.shields.io/github/followers/Lakshit-Chiranjiv?label=Follow&style=social)](https://github.com/Lakshit-Chiranjiv) &nbsp;
 ![](https://visitor-badge.laobi.icu/badge?page_id=Lakshit-Chiranjiv.Lakshit-Chiranjiv)
