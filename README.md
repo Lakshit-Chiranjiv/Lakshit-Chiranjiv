@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Lakshit-Chiranjiv/Lakshit-Chiranjiv/blob/main/images/LAKSHIT%20CHIRANJIV%20SAGAR%20(1).png" />
 </p>
 <p align="center">
   <a href="https://twitter.com/snehilcodes" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
