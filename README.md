@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  <h2 align="center">Find me on 🔎</h2> 
   <a href="https://twitter.com/lakshit_cs" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lakshit-chiranjiv-sagar-4b0b15198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lakshit_cs/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/lakshit_cs/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a> -->
   <img src="https://badges.pufler.dev/visits/Lakshit-Chiranjiv/Lakshit-Chiranjiv?style=for-the-badge" />
 </div>
