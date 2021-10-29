@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 ## About Me 👨‍🎓
 - 🔭 I’m currently working on Daily log app
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning JAM & MERN Stack
 - 👯 I’m looking to connect with fellow developers
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Java
+- 🤔 I’m looking for help with Express JS
+- 💬 Ask me about Java & Front-End Development
 - 📫 How to reach me: <a href="https://twitter.com/lakshit_cs" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/lakshit-chiranjiv-sagar-4b0b15198/" target="_blank">Linkedin</a> | <a href="https://www.instagram.com/lakshit_cs/" target="_blank">Instagram</a>
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: Watching Naruto🍥 and Cricket crazy😌
