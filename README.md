@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 
 <br><br><br>
+
+
+
+<!-- ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=plastic&labelColor=black&logo=react&logoColor=61DBFB) &nbsp;
+![JS Badge](https://img.shields.io/badge/-Javascript-ffff00?style=plastic&labelColor=black&logo=javascript&logoColor=ffff00) &nbsp; -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" height="32" width="32" /> &nbsp;
 <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />&nbsp;
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>&nbsp;
@@ -57,6 +62,21 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" title="Kotlin" height="32" width="32" />&nbsp;
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" height="32" width="32" />&nbsp;
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" height="32" width="32" />&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 <p align="center">
