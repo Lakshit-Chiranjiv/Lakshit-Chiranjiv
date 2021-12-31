@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🔭 I’m currently working on Daily log app
-- 🌱 I’m currently learning JAM & MERN Stack
+- 🔭 I’m currently working on Badge code app
+- 🌱 I’m currently learning Blockchain Development & MERN Stack
 - 👯 I’m looking to connect with fellow developers
-- 🤔 I’m looking for help with Express JS
 - 💬 Ask me about Java & Front-End Development
 - 📫 How to reach me: <a href="https://twitter.com/lakshit_cs" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/lakshit-chiranjiv-sagar-4b0b15198/" target="_blank">Linkedin</a> | <a href="https://www.instagram.com/lakshit_cs/" target="_blank">Instagram</a>
 - 😄 Pronouns: He | Him
