@@ -121,6 +121,7 @@ Here are some ideas to get you started:
 ![badge](https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white)
 ![badge](https://img.shields.io/badge/Vite-B73BFE?style=plastic&logo=vite&logoColor=FFD62E)
 ![badge](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
+![badge](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
 
 
