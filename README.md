@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&logo=PyCharm&logoColor=white) &nbsp;
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white) &nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white) &nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black) &nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?logo=Jupyter&logoColor=white) &nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white) &nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) &nbsp;
