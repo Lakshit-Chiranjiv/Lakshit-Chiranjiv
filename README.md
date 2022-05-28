@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🔭 I’m currently working on Badge code app
+- 🔭 I’m currently working on a MEVN pokemon app.
 - 🌱 I’m currently learning Blockchain Development & MERN Stack
 - 👯 I’m looking to connect with fellow developers
 - 💬 Ask me about Java & Front-End Development
