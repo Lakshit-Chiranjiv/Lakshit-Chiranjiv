@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 ![Express JS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) &nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) &nbsp;
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logoColor=white) &nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white) &nbsp;
 
 #### Version Control
 
@@ -136,6 +137,11 @@ Here are some ideas to get you started:
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62E) &nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white) &nbsp;
+
+### App Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) &nbsp;
 
 
 ### Blockchain Development
