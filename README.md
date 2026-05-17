@@ -61,8 +61,8 @@ Software engineer based in Bengaluru with 3+ years at FICO shipping cloud infras
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&theme=github_dark&layout=compact&langs_count=6&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-lakshit-chiranjiv.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
 
