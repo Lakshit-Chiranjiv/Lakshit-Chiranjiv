@@ -1,68 +1,64 @@
 <div align="center">
-
-# Lakshit Chiranjiv Sagar
-
-**Software Engineer · Building at the edge of Cloud, AI & Web3**
-
-⚡ At **FICO** for 3+ years — cloud infra, DevOps automation & security at scale
+  <img src="./images/banner.svg" width="100%" alt="Lakshit banner"/>
+</div>
 
 <br>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshit-chiranjiv-sagar-4b0b15198/)
+&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lakshit_cs)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+&nbsp;
+[![Content](https://img.shields.io/badge/Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
 
 </div>
 
 ---
 
-### About
-
-Software engineer based in Bengaluru with 3+ years at FICO shipping cloud infrastructure, DevOps automation, and security tooling at scale. Outside work, I build projects at the intersection of AI engineering and Web3 and stay sharp on full-stack fundamentals. I'm drawn to systems that are actually deployed and used, not just built.
-
----
-
-### Now
-
-| | |
-|---|---|
-| 🔨 **Building** | `[Project name]` — one line description of what it does |
-| 📚 **Learning** | Advanced AI agents · Foundry & modern Web3 tooling |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark&hide_border=true&background=161b22&ring=388bfd&fire=ffa657&currStreakLabel=58a6ff" />
+</div>
 
 ---
 
-### Domains
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <b>☁️ Cloud & DevOps</b><br>
-      <sub>AWS · Docker · K8s · Kyverno<br>Terraform · Packer · Linux</sub>
-    </td>
-    <td align="center" width="160">
-      <b>🤖 AI Engineering</b><br>
-      <sub>Python · LangChain · OpenAI<br>HuggingFace · Ollama · Pandas</sub>
-    </td>
-    <td align="center" width="160">
-      <b>⛓️ Web3 / Blockchain</b><br>
-      <sub>Solidity · Hardhat · Foundry<br>Wagmi · Viem · Ethereum</sub>
-    </td>
-    <td align="center" width="160">
-      <b>🌐 Full Stack Web</b><br>
-      <sub>React · Next.js · Svelte<br>Node.js · TypeScript · Tailwind</sub>
-    </td>
-    <td align="center" width="160">
-      <b>📱 App Dev</b><br>
-      <sub>React Native<br>Flutter (learning)</sub>
-    </td>
-  </tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/☁_Cloud_&_DevOps-388bfd?style=for-the-badge&labelColor=0d1117&color=388bfd" /><br><br>
+<sub><code>AWS · Docker · K8s</code></sub><br>
+<sub><code>Kyverno · Terraform</code></sub><br>
+<sub><code>Packer · Linux</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/◈_AI_Engineering-3fb950?style=for-the-badge&labelColor=0d1117&color=3fb950" /><br><br>
+<sub><code>Python · LangChain</code></sub><br>
+<sub><code>OpenAI · HuggingFace</code></sub><br>
+<sub><code>Ollama · Pandas</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⬡_Web3_Blockchain-a371f7?style=for-the-badge&labelColor=0d1117&color=a371f7" /><br><br>
+<sub><code>Solidity · Hardhat</code></sub><br>
+<sub><code>Foundry · Wagmi</code></sub><br>
+<sub><code>Viem · Ethereum</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⬢_Full_Stack_Web-ffa657?style=for-the-badge&labelColor=0d1117&color=ffa657" /><br><br>
+<sub><code>React · Next.js</code></sub><br>
+<sub><code>Svelte · Node.js</code></sub><br>
+<sub><code>TypeScript · Tailwind</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/▣_App_Dev-f85149?style=for-the-badge&labelColor=0d1117&color=f85149" /><br><br>
+<sub><code>React Native</code></sub><br>
+<sub><code>Flutter</code></sub><br>
+<sub><code>(learning)</code></sub>
+</td>
+</tr>
 </table>
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Chiranjiv&theme=dark" />
-  <img align="center" src="https://github-readme-stats-lakshit-chiranjiv.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
-</p>
-
+<br>
