@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Lakshit-Chiranjiv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Software%2C+Cloud+%26+Platform+Engineer;DevOps+%E2%80%A2+AI+%E2%80%A2+Full-Stack+%E2%80%A2+Web3;%20Building+at+the+edge+of+web%2C+cloud+%26+intelligence" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Software%2C+Cloud+%26+Platform+Engineer;DevOps+%E2%80%A2+AI+%E2%80%A2+Full-Stack+%E2%80%A2+Web3;Building+at+the+edge+of+web%2C+cloud+%26+intelligence" alt="typing" />
   </a>
 </div>
 
