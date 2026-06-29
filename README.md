@@ -74,7 +74,17 @@ Full-stack web &amp; blockchain background, now going deep on AI engineering. I 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshit-Chiranjiv&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshit-Chiranjiv&theme=tokyonight" alt="profile details" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshit-Chiranjiv&theme=tokyonight" alt="stats" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshit-Chiranjiv&theme=tokyonight" alt="repos per language" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshit-Chiranjiv&theme=tokyonight" alt="most commit language" />
 </div>
 
 <br>
