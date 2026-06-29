@@ -74,9 +74,13 @@ Full-stack web &amp; blockchain background, now going deep on AI engineering. I 
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakshit-Chiranjiv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0B0B0F" alt="stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit-Chiranjiv&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0B0B0F" alt="top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshit-Chiranjiv&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshit-Chiranjiv&bg_color=0B0B0F&color=22D3EE&line=22D3EE&point=EC4899&area=true&area_color=22D3EE&hide_border=true" alt="contribution graph" />
 </div>
 
 <br>
