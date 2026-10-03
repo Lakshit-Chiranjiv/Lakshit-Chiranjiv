@@ -18,7 +18,7 @@
 &nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lakshit_cs)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B0B0F)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B0B0F)](https://lakshit-3d-portfolio.vercel.app/)
 &nbsp;
 [![Content](https://img.shields.io/badge/Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://YOUR_CONTENT_URL)
 
